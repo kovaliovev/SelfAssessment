@@ -1,66 +1,66 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming: 🎓 known
+  - Procedural programming: 🖐 used
   - Imperative programming: 🖐 used
-  - Structured programming: 🎓 known
-  - Non-structured programming: 🎓 known
-  - Functional programming: 🎓 known
+  - Structured programming: 🖐 used
+  - Non-structured programming: 🖐 used
+  - Functional programming: 🖐 used
   - Prototype-based programming: 🎓 known
   - Object-oriented programming: 🖐 used
-  - Object-based programming: 🎓 known
-  - Generic programming
-  - Concurrent computing
-  - Asynchronous programming: 👂 heard
+  - Object-based programming: 👂 heard
+  - Generic programming: 👂 heard
+  - Concurrent computing: 👂 heard
+  - Asynchronous programming: 🖐 used
   - Parallel programming: 👂 heard
   - Reactive programming: 👂 heard
-  - FRP (Functional-reactive)
-  - Automata-based programming
+  - FRP (Functional-reactive): 👂 heard
+  - Automata-based programming: 👂 heard
   - Domain-specific languages: 👂 heard
   - Multi-paradigm programming: 🖐 used
   - Metaprogramming: 👂 heard
   - Actor model: 👂 heard
 - OOP basics
-  - constructor: 🖐 used
-  - new: 🖐 used
-  - Static method: 🖐 used
-  - Method: 🖐 used
-  - Async method: 🎓 known
+  - constructor: 🙋 explained
+  - new: 🙋 explained
+  - Static method: 🙋 explained
+  - Method: 🙋 explained
+  - Async method: 🙋 explained
   - Getters, Setters: 🖐 used
   - Public fields: 🖐 used
   - Private fields: 🖐 used
   - Field declarations: 🖐 used
   - Inheritance: 🖐 used
   - Parent class: 🖐 used
-  - Polymorphism: 👂 heard
-  - Abstract class: 👂 heard
-  - Interface: 🎓 known
+  - Polymorphism: 🖐 used
+  - Abstract class: 🖐 used
+  - Interface: 🖐 used
   - Encapsulation: 🖐 used
-  - Hidden class: 👂 heard
+  - Hidden class: 🎓 known
   - Object form: 🖐 used
-  - instance: 🖐 used
-  - Introspection: 👂 heard
-  - Reflection: 👂 heard
+  - instance: 🙋 explained
+  - Introspection: 🎓 known
+  - Reflection: 🎓 known
 - Patterns
-  - Singleton: 👂 heard
-  - Factory Method: 👂 heard
-  - Abstract Factory: 👂 heard
+  - Singleton: 🖐 used
+  - Factory Method: 🖐 used
+  - Abstract Factory: 🖐 used
   - Adapter: 👂 heard
-  - Observer: 🎓 known
-  - Strategy
+  - Observer: 🖐 used
+  - Strategy: 👂 heard
   - Facade: 🎓 known
-  - Proxy: 🎓 known
-  - Chain of Responsibility: 👂 heard
-  - Command
+  - Proxy: 🖐 used
+  - Chain of Responsibility: 🎓 known
+  - Command: 👂 heard
   - Iterator: 🎓 known
   - State: 🎓 known
-  - Bridge
-  - Builder
-  - Prototype: 👂 heard
+  - Bridge: 👂 heard
+  - Builder: 👂 heard
+  - Prototype: 🎓 known
   - Composite: 🎓 known
-  - Decorator: 🎓 known
-  - Flyweight
+  - Decorator: 🖐 used
+  - Flyweight: 👂 heard
   - Mediator: 🖐 used
-  - Memento
-  - Template Method
-  - Visitor
+  - Memento: 👂 heard
+  - Template Method: 👂 heard
+  - Visitor: 👂 heard
