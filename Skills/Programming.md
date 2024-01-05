@@ -1,97 +1,97 @@
 ## Programming fundamental concepts
 
 - Syntax and concepts
-  - value: 🖐 used
-  - identifier: 🖐 used
-  - variable: 🖐 used
-  - constant: 🖐 used
-  - scalar: 🖐 used
-  - literal: 🖐 used
-  - expression: 🖐 used
+  - value: 🙋 explained
+  - identifier: 🙋 explained
+  - variable: 🙋 explained
+  - constant: 🙋 explained
+  - scalar: 🙋 explained
+  - literal: 🙋 explained
+  - expression: 🙋 explained
   - heap: 🎓 known
-  - function: 🖐 used
-  - procedure: 🖐 used
-  - method: 🖐 used
-  - class: 🎓 known
-  - prototype: 🎓 known
-  - event: 🎓 known
-  - type: 🖐 used
-  - primitive types: 🖐 used
-  - reference types: 🖐 used
-  - flag: 🖐 used
-  - lexical scope: 🖐 used
-  - code block: 🖐 used
-  - conditions: 🖐 used
-  - loops: 🖐 used
-  - assignment: 🖐 used
+  - function: 🙋 explained
+  - procedure: 🙋 explained
+  - method: 🙋 explained
+  - class: 🖐 used
+  - prototype: 🖐 used
+  - event: 🖐 used
+  - type: 🙋 explained
+  - primitive types: 🙋 explained
+  - reference types: 🙋 explained
+  - flag: 🙋 explained
+  - lexical scope: 🙋 explained
+  - code block: 🙋 explained
+  - conditions: 🙋 explained
+  - loops: 🙋 explained
+  - assignment: 🙋 explained
   - regular expression: 🖐 used
-  - interface: 👂 heard
-  - contract: 🖐 used
-  - module: 🎓 known
-  - call stack: 🖐 used
+  - interface: 🖐 used
+  - contract: 🙋 explained
+  - module: 🙋 explained
+  - call stack: 🙋 explained
 - Functions
-  - signature: 🖐 used
-  - argument: 🖐 used
-  - parameter: 🖐 used
-  - pure function: 🖐 used
-  - lambda expression: 🖐 used
-  - side effects: 🎓 known
-  - closure: 🖐 used
-  - partial application: 🖐 used
+  - signature: 🙋 explained
+  - argument:🙋 explained
+  - parameter: 🙋 explained
+  - pure function: 🙋 explained
+  - lambda expression: 🙋 explained
+  - side effects: 🙋 explained
+  - closure: 🙋 explained
+  - partial application: 🙋 explained
   - curry: 🎓 known
-  - higher order: 🖐 used
-  - recursion: 🎓 known
-  - callback: 🖐 used
-  - listener: 🎓 known
-  - compose: 🎓 known
+  - higher order: 🙋 explained
+  - recursion: 🖐 used
+  - callback: 🙋 explained
+  - listener: 🖐 used
+  - compose: 🖐 used
   - pipe: 🎓 known
   - memoize: 🎓 known
-  - wrapper: 🎓 known
-  - functor: 👂 heard
-  - monad: 👂 heard
-  - monoid: 👂 heard
+  - wrapper: 🖐 used
+  - functor: 🎓 known
+  - monad: 🎓 known
+  - monoid: 🎓 known
   - generator: 🎓 known
-  - coroutine: 👂 heard
+  - coroutine: 🎓 known
 - Data structures
-  - array: 🖐 used
+  - array: 🙋 explained
   - structure: 🎓 known
-  - record: 👂 heard
-  - enum: 👂 heard
-  - instance: 🖐 used
-  - object: 🖐 used
-  - class: 🎓 known
+  - record: 🎓 known
+  - enum: 🖐 used
+  - instance: 🙋 explained
+  - object: 🙋 explained
+  - class: 🙋 explained
   - collection: 🖐 used
   - set: 🖐 used
   - hash table: 🖐 used
   - linked list: 🖐 used
   - doubly list: 🖐 used
-  - unrolled list: 👂 heard
+  - unrolled list: 🎓 known
   - circular list: 🎓 known
   - queue: 🖐 used
   - stack: 🖐 used
   - deque: 🖐 used
   - tree: 🎓 known
-  - graph: 🎓 known
-  - iterator: 🎓 known
-  - mutable state: 🎓 known
-  - immutable state: 🎓 known
-  - serialization: 🎓 known
-  - string parsing: 🎓 known
+  - graph: 🖐 used
+  - iterator: 🖐 used
+  - mutable state: 🖐 used
+  - immutable state: 🖐 used
+  - serialization: 🙋 explained
+  - string parsing: 🙋 explained
 - Process & style
   - compiler: 🖐 used
-  - transpiler: 👂 heard
-  - linter: 🖐 used
-  - polyfill: 🎓 known
-  - debugger: 🖐 used
+  - transpiler: 🖐 used
+  - linter: 🙋 explained
+  - polyfill: 🖐 used
+  - debugger: 🙋 explained
   - garbage collection: 🖐 used
-  - refactoring: 🖐 used
-  - code review: 🖐 used
+  - refactoring: 🙋 explained
+  - code review: 🙋 explained
   - antipatterns: 🖐 fixed
   - paradigm: 🖐 used
   - algorithm: 🖐 used
   - magic numbers: 🖐 fixed
   - hardcode: 🖐 fixed
-  - complexity: 👂 heard
+  - complexity: 🎓 known
   - decomposition: 🖐 used
   - spaghetti: 🖐 fixed
   - silver bullet: 🖐 fixed
@@ -101,6 +101,6 @@
   - duplicate code: 🖐 fixed
   - exception: 🖐 used
   - return early: 🖐 used
-  - unittest: 🖐 used
+  - unittest: 🙋 explained
   - git: 🖐 used
-  - github: 🖐 used
+  - github: 🙋 explained
